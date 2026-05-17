@@ -1,0 +1,15 @@
+C:\Users\Ali Abbas\Desktop\CleanArchitectureDemo\bin\Debug\net8.0\CleanArchitectureDemo.exe
+C:\Users\Ali Abbas\Desktop\CleanArchitectureDemo\bin\Debug\net8.0\CleanArchitectureDemo.deps.json
+C:\Users\Ali Abbas\Desktop\CleanArchitectureDemo\bin\Debug\net8.0\CleanArchitectureDemo.runtimeconfig.json
+C:\Users\Ali Abbas\Desktop\CleanArchitectureDemo\bin\Debug\net8.0\CleanArchitectureDemo.dll
+C:\Users\Ali Abbas\Desktop\CleanArchitectureDemo\bin\Debug\net8.0\CleanArchitectureDemo.pdb
+C:\Users\Ali Abbas\Desktop\CleanArchitectureDemo\obj\Debug\net8.0\CleanArchitectureDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Abbas\Desktop\CleanArchitectureDemo\obj\Debug\net8.0\CleanArchitectureDemo.AssemblyInfoInputs.cache
+C:\Users\Ali Abbas\Desktop\CleanArchitectureDemo\obj\Debug\net8.0\CleanArchitectureDemo.AssemblyInfo.cs
+C:\Users\Ali Abbas\Desktop\CleanArchitectureDemo\obj\Debug\net8.0\CleanArchitectureDemo.csproj.CoreCompileInputs.cache
+C:\Users\Ali Abbas\Desktop\CleanArchitectureDemo\obj\Debug\net8.0\CleanArchitectureDemo.dll
+C:\Users\Ali Abbas\Desktop\CleanArchitectureDemo\obj\Debug\net8.0\refint\CleanArchitectureDemo.dll
+C:\Users\Ali Abbas\Desktop\CleanArchitectureDemo\obj\Debug\net8.0\CleanArchitectureDemo.pdb
+C:\Users\Ali Abbas\Desktop\CleanArchitectureDemo\obj\Debug\net8.0\CleanArchitectureDemo.genruntimeconfig.cache
+C:\Users\Ali Abbas\Desktop\CleanArchitectureDemo\obj\Debug\net8.0\ref\CleanArchitectureDemo.dll
+C:\Users\Ali Abbas\Desktop\CleanArchitectureDemo\obj\Debug\net8.0\CleanArchitectureDemo.sourcelink.json

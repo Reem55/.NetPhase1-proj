@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Application",
+    "\\Domain",
+    "\\Infrastructure",
+    "\\Presentation"
+  ],
+  "SelectedNode": "\\Presentation\\ConsoleUI.cs",
+  "PreviewInSolutionExplorer": false
+}
